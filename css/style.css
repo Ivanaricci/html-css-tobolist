@@ -15,6 +15,10 @@ body{
     padding: 20px 60px 40px;
 }
 
+ul{
+    list-style-type: none;
+}
+
 /* Intestazione */
 
 header{
@@ -57,6 +61,4 @@ button{
 
 /* lista */
 
-#curtain{
-    list-style-type: none;
-}
+

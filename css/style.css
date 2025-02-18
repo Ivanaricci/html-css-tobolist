@@ -91,3 +91,20 @@ li{
     vertical-align: middle;
     padding-left: 10px;
 }
+
+.category{
+    color: white;
+    border-radius: 10px;
+    display: inline-block;
+    height: 25px;
+    width: 75px;
+    font-size: 13px;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 4px;
+
+}
+
+.color-rgb{
+    background-color:rgb(53, 162, 237); ;
+}

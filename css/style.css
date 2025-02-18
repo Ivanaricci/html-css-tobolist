@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+/* Intestazione */
+
+header{
+    background-color: white;
+}
+
+img{
+    height: 80px;
+    vertical-align: middle;
+    padding: 9px;
+}
+
+
+h1{
+    display: inline-block;
+    font-size: 45px;
+    vertical-align: middle;
+}
+
+
+
+
+body{
+    background-color: lightgrey;
+}

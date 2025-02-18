@@ -108,3 +108,23 @@ li{
 .color-rgb{
     background-color:rgb(53, 162, 237); ;
 }
+
+.color-viola{
+    background-color: rgb(150, 105, 226);
+}
+
+.color-green{
+    background-color: rgb(81, 189, 161);
+}
+
+.color-orange{
+    background-color: orange;
+}
+
+.color-pink{
+    background-color: rgb(252, 125, 146);
+}
+
+.color-lightgreen{
+    background-color: rgb(167, 169, 57);
+}

@@ -80,6 +80,10 @@ li{
     border-radius: 50%;
     text-align: center;
     vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    font-size: 13px;
     
 }
 

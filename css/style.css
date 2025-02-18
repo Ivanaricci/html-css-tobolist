@@ -47,6 +47,7 @@ button{
     background-color: white;
     padding: 8px 15px;
     font-size: 15px;
+    margin-bottom: 30px;
 }
 
 .task{
@@ -62,7 +63,7 @@ button{
 /* lista */
 
 li{
-    padding: 20px;
+    padding: 15px 0px;
     
 }
 
